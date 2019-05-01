@@ -1,2 +1,4 @@
 # MyLearning
- something basic
+something basic
+ 
+I like learning C/C++,JS,and python.
